@@ -1,0 +1,5 @@
+package com.adpguima.service;
+
+public class BookServiceImpl implements BookService{
+
+}

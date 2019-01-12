@@ -1,0 +1,5 @@
+package com.adpguima.model;
+
+public class Book {
+
+}

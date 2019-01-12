@@ -1,0 +1,4 @@
+com\adpguima\config\AppConfig.class
+com\adpguima\config\WebConfig.class
+com\adpguima\model\Book.class
+com\adpguima\config\WebAppInitializer.class

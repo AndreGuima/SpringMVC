@@ -1,0 +1,6 @@
+package com.adpguima.controller;
+
+@RestController
+public class BookController {
+
+}

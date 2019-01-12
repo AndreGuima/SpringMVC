@@ -1,0 +1,10 @@
+package com.adpguima.dao;
+
+import com.adpguima.model.Book;
+
+public class BookDAO {
+	
+	long save(Book book);
+	Book get(long id);
+
+}

@@ -1,0 +1,5 @@
+package com.adpguima.config;
+
+public class WebConfig {
+
+}

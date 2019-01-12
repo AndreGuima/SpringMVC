@@ -1,0 +1,5 @@
+package com.adpguima.service;
+
+public interface BookService {
+
+}

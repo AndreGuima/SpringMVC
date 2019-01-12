@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\andre\bookapi\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+703758983.index
+938572114.index
+174217285.index
+656492576.index
+499289591.index
+934523242.index
