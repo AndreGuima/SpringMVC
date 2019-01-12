@@ -1,4 +1,9 @@
+com\adpguima\dao\BookDAOImpl.class
+com\adpguima\service\BookService.class
 com\adpguima\config\AppConfig.class
 com\adpguima\config\WebConfig.class
-com\adpguima\model\Book.class
 com\adpguima\config\WebAppInitializer.class
+com\adpguima\controller\BookController.class
+com\adpguima\dao\BookDAO.class
+com\adpguima\model\Book.class
+com\adpguima\service\BookServiceImpl.class
